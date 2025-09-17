@@ -1,8 +1,3 @@
-//Rayan Khan
-//Mr. Segall
-//AP Comp Sci Period 9
-//June 5, 2024
-
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.GridLayout;
@@ -1164,4 +1159,5 @@ public class BallComponent extends JComponent implements Runnable, KeyListener, 
 			stopBar = true;
 		}	
 	}
+
 }
