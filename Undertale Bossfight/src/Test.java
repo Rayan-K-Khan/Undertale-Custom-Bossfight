@@ -1,8 +1,3 @@
-//Rayan Khan
-//Mr. Segall
-//AP Comp Sci Period 9
-//June 5, 2024
-
 import javax.swing.JFrame;
 
 import java.awt.BorderLayout;
@@ -25,4 +20,5 @@ public class Test
 		frame.setVisible(true); 
 		b.startAnimation();		
 	}
+
 }
