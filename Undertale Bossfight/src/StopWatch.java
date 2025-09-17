@@ -1,7 +1,3 @@
-//Rayan Khan
-//Mr. Segall
-//AP Comp Sci Period 9
-//June 5, 2024
 /**
    A stopwatch accumulates time when it is running. You can 
    repeatedly start and stop the stopwatch. You can use a
@@ -67,4 +63,5 @@ public class StopWatch
    private long elapsedTime;
    private long startTime;
    private boolean isRunning;
+
 }
